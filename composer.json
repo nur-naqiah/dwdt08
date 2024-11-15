@@ -8,6 +8,9 @@
         "php": "^8.2",
         "laravel/framework": "^11.9",
         "laravel/tinker": "^2.9",
+        "ext-bcmath": "*",
+        "ext-mbstring": "*",
+        "ext-sqlite3": "*",
         "ext-pdo_sqlite": "*"
     },
     "require-dev": {
